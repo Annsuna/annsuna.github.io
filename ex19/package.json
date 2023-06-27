@@ -5,7 +5,7 @@
   "main": "modal.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "modal.html"
+    "start": "lite-server"
   },
   "author": "",
   "license": "ISC",
